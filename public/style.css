@@ -1,0 +1,17 @@
+.title {
+  font-size: 5em;
+}
+h1{color:pink}
+html{height:1000}
+body{
+  height:1000;
+  background-image: url("img/dark-bg1.jpg");
+  color:white;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;}
+hl{ font-family: 'Roboto', sans-serif;}
+.btn{color: white; background-color: purple; text-decoration: none; padding: 1em 2em 1em; margin-bottom: 1.5em; display: inline-block;font-size: inherit}
+
+.guess{font-size: 2em; margin: 0 auto; display: block}
+
+.trophy{ height: 400px}
